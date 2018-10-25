@@ -76,4 +76,6 @@ Then for each language supported by the compiler you have to link the php file t
 > on the local server machine. Similarly in the compilers folder of the
 > project and in the `c.php` file to the variable putenv assign the path
 > (`...\MinGW\bin`). `putenv("PATH=...\MinGW\bin")`
-
+## License and copyright
+Copyright (C) 2018 [Priyansh Saxena](https://www.linkedin.com/in/priyansh-saxena-38a8b913b/)
+Licensed under [**GNU Lesser General Public License version 2.1 (LGPL-2.1)**](https://github.com/llcodeAlphall/EncodeOJ/blob/master/LICENSE)
