@@ -26,8 +26,8 @@
   </tr>
   
   <tr>
-    <td><font size="10">03</td>     
-    <td> Allows users to include header files/packages/modules from the internet on the go if not present in our environment.
+    <td><font size="10"><strike>03</strike></td>     
+    <td> <strike>Allows users to include header files/packages/modules from the internet on the go if not present in our environment.</strike>
     </td>    
   </tr>
   
