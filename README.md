@@ -1,8 +1,9 @@
  
 
-<html>
-<h1><img src="https://cdn.pbrd.co/images/HKbWC0P.png" alt="Encode logo" title="Encode Logo" style="float:right" width="160">   Welcome to encode!</h1> 
-</html>
+## Online Compiler+Compare
+
+|<img src="https://cdn.pbrd.co/images/HKbWC0P.png" alt="drawing" width="160"/>|  <h1>Welcome to Encode!     </h1>|
+| ---------------------- |-----------------|
 
 # Design aspect
  
