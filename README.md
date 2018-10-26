@@ -2,7 +2,7 @@
 
 ## Online Compiler+Compare
 
-|<img src="https://dewey.tailorbrands.com/production/brand_version_mockup_image/855/1333959855_a5c28faa-b383-4d76-98ba-cbeb412cb709.png?cb=1540454222" alt="drawing" width="160"/>|  <h1>Welcome to Encode!     </h1>|
+|<img src="http://bit.ly/2PY8feD" alt="drawing" width="160"/>|  <h1>Welcome to Encode!     </h1>|
 | ---------------------- |-----------------|
 
 # Design aspect
@@ -67,9 +67,9 @@ Then for each language supported by the compiler you have to link the php file t
  3. In this last step, you should in the php file corresponding to the desired language you should  assign the variable **"putenv"** the path of the compiler in your local server machine.
 
 > For example for C/C++ you have to follow these steps: The windows
-> server should have **[MinGW](http://www.mingw.org/)** installed (or can
+> server should have **[MinGW](http://bit.ly/2O6hbNt)** installed (or can
 > be downloaded
-> [here](https://osdn.net/projects/mingw/downloads/68260/mingw-get-setup.exe/)
+> [here](http://bit.ly/2ArXcoI)
 > with all its packages. Then open the directory in which the MinGW is
 > installed, open bin folder and copy this directory path (which should
 > be `...\MinGW\bin`) Add this path to the environment variable `path`
