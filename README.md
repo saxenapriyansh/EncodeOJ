@@ -2,7 +2,7 @@
 
 ## Online Compiler+Compare
 
-|<img src="http://bit.ly/2PY8feD" alt="drawing" width="160"/>|  <h1>Welcome to Encode!     </h1>|
+|<img src="https://cdn.pbrd.co/images/HKbWC0P.png" alt="drawing" width="160"/>|  <h1>Welcome to Encode!     </h1>|
 | ---------------------- |-----------------|
 
 # Design aspect
