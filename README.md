@@ -1,6 +1,6 @@
  
 
-## Online Compiler + Compare
+## Online Compiler+Compare
 
 |<img src="https://cdn.pbrd.co/images/HKbWC0P.png" alt="drawing" width="160"/>|  <h1>Welcome to Encode!     </h1>|
 | ---------------------- |-----------------|
