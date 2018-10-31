@@ -64,7 +64,7 @@ Then for each language supported by the compiler you have to link the php file t
 
  1. You should have the compiler for the desired languge on your local server machine.
  2. Then in the environment variables in to **"path"**  variable add the path to the compiler.
- 3. In this last step, you should in the php file corresponding to the desired language you should  assign the variable **"putenv"** the path of the compiler in your local server machine
+ 3. In this last step, you should in the php file corresponding to the desired language you should  assign the variable **"putenv"** the path of the compiler in your local server machine.
 
 > For example for C/C++ you have to follow these steps: The windows
 > server should have **[MinGW](http://bit.ly/2O6hbNt)** installed (or can
@@ -75,7 +75,7 @@ Then for each language supported by the compiler you have to link the php file t
 > be `...\MinGW\bin`) Add this path to the environment variable `path`
 > on the local server machine. Similarly in the compilers folder of the
 > project and in the `c.php` file to the variable putenv assign the path
-> (`...\MinGW\bin`). `putenv("PATH=...\MinGW\bin")`
+> (`...\MinGW\bin`). `putenv("PATH=...\MinGW\bin")`.
 <html>
 <h2> License and copyright</h2>
 Copyright &copy; 2018 <a href="http://bit.ly/2Ji3kmj" title="Go to my profile" target="_blank">Priyansh Saxena</a> Licensed under <a href="https://github.com/llcodeAlphall/EncodeOJ/blob/master/LICENSE" target="_blank" title="View complete licensing information"><b>GNU Lesser General Public License version 2.1 (LGPL-2.1)</b></a>
